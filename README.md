@@ -36,7 +36,7 @@ You're free to download the source and [get started](https://github.com/neverwoo
 ```
 {
     "require": {
-        "neverwoods/validformbuilder": "~4"
+        "validformbuilder/validformbuilder": "~4"
     }
 }
 ```
